@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ECB5B1</item>
+        <item name="colorPrimaryDark">#F3BDB9</item>
+        <item name="colorAccent">#4CAF50</item>
+    </style>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#fff</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+
+</resources>

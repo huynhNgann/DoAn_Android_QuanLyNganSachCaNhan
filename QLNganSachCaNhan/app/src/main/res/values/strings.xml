@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ngân sách cá nhân</string>
+
+    <string-array name="items">
+        <item>Select item</item>
+        <item>Transport</item>
+        <item>Food</item>
+        <item>House</item>
+        <item>Entertainment</item>
+        <item>Education</item>
+        <item>Charity</item>
+        <item>Apparel</item>
+        <item>Health</item>
+        <item>Personal</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="about_app">
+    Ứng dụng này cho phép Học sinh theo dõi tiền của họ và việc chi tiêu số tiền đó vào các mục trong cuộc sống hàng ngày của họ. \ n \ nỨng dụng cho phép người dùng đặt ngân sách cho các mặt hàng riêng lẻ và cả tổng ngân sách trong tháng. \ n \ nNgười dùng ghi lại trong ứng dụng mỗi khi họ chi tiền vào việc gì đó, chẳng hạn như giờ phát sóng, vận chuyển hoặc ăn uống. \ n \ n Ứng dụng lần lượt hiển thị tất cả các mục mà người dùng đã chi tiêu, ngày tháng và tổng số của tất cả các mục ở cấp ngày, tháng và tuần. \ n \ n Ứng dụng hiển thị cờ về chi tiêu dựa trên ngân sách đã đặt, cờ biểu thị tỷ lệ phần trăm số tiền đã chi, cho tất cả các mục và cả các mục riêng lẻ. \ n \ nỨng dụng cũng hiển thị biểu diễn đồ họa của các mặt hàng và số tiền chi tiêu cho chúng ở các cấp độ hàng ngày, hàng tuần và hàng tháng, cho người dùng biết số tiền họ đã chi cho mọi mặt hàng và mặt hàng mà họ đã chi tiêu nhiều nhất.
+    </string>
+</resources>
